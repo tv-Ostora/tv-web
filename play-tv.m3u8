@@ -1,6 +1,15 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://raw.githubusercontent.com/connord96/IPTV-Channels/main/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_PLUTOTV1.xml.gz, https://www.bevy.be/bevyfiles/unitedstatespremium3.xml, https://www.bevy.be/bevyfiles/unitedstatespremium4.xml, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz"
 
 
+#EXTINF: **********This section is for Irish radio stations and free Irish TV channels**********
+#EXTINF:-1 tvg-id="LiveRadio" channelID="LiveRadio"  tvg-logo="http://www.highlandradio.com/wp-content/uploads/2017/08/highland_icon_01.png" group-title="Ireland 🇮🇪" radio="true",Highland Radio
+https://edge.audioxi.com/HIGHLAND
+#EXTINF:-1 tvg-id="BBC.R.Foyle.uk" channelID="BBC.R.Foyle.uk" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_foyle/blocks-colour_600x600.png" group-title="Ireland 🇮🇪" radio="true",BBC Radio Foyle
+http://lstn.lv/bbc.m3u8?station=bbc_radio_foyle&bitrate=96000
+
+
+
+
 #EXTINF: **********This section is intended for adults only**********
 
 
