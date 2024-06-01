@@ -38,35 +38,35 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="USA",Bloomberg TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Israel",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="USA",Bloomberg TV+ UHD (2160p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Israel",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="USA",FOX News Now (720p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Israel",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="USA",NBC News Now (1080p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="Israel",NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="USA",Reuters
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Israel",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="USA",CNN International Europe
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Israel",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="WeatherSki",Weather EU 2
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="Israel",Weather EU 2
 https://brevent.akamaized.net/hls/live/2028222-b/event_05/master_1280p_3328.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="TvShowMarathons",Rick and morty (720) HD
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="Israel",Rick and morty (720) HD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" group-title="TvShowMarathons",Rick and morty (360) SD
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" group-title="Israel",Rick and morty (360) SD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
 
 
@@ -90,10 +90,10 @@ https://rmtv-canela.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" group-title="Israel",Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" tvg-id="True Premier Football 1" group-title="Israel",True Premier Football 1
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="Israel",True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" tvg-id="True Premier Football 2" group-title="Israel",True Premier Football 2
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="Israel",True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
@@ -135,19 +135,19 @@ https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" tvg-id="ShelanuTV.il" group-title="Israel",שלנו TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" group-title="Israel",שלנו TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_4.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png" tvg-id="FOX NEWS" group-title="Israel",FOX NEWS
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png"  group-title="Israel",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBC NEWS" group-title="Israel",NBC NEWS
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png"  group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
@@ -156,13 +156,13 @@ https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 #EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="PANET 30 HALA هلا" group-title="Israel",PANET 30 HALA هلا
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="Israel",PANET 30 HALA هلا
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="IsraelParsTV.il" group-title="Israel",IsraelParsTV.il
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UM5Gf4L.png" group-title="Israel",IsraelParsTV.il
 https://live.pars-israel.com/iptv/stream.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" tvg-id="i24 English" group-title="Israel",i24 English
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" group-title="Israel",i24 English
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
 
@@ -193,7 +193,7 @@ https://shoppingil-rewriter.vidnt.com/index.m3u8
 #EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
-#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
