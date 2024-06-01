@@ -1,72 +1,72 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" group-title="Israel",kan 11
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://diversityisrael.org.il/wp-content/uploads/kan-200x145.png" tvg-id="Israel" group-title="Israel",kan 11
 http://7b30f9aa.tvclub.xyz/iptv/ZN8FX253LKUTUR/12256/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",keshet 12
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" tvg-id="Israel" group-title="Israel",keshet 12
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", reshet 13
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" tvg-id="Israel" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" tvg-id="Israel" group-title="Israel",now 14
 https://hub7.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/profile/2/profileManifest.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" tvg-id="Israel" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" tvg-id="Israel" group-title="Israel",ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="Makan33.il" group-title="Israel",مكان 33
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-id="Makan33.il" tvg-id="Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-id="Channel9.il" tvg-id="Israel" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" tvg-id="Israel" group-title="Israel",Ynet
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" tvg-id="Israel" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Israel",Bloomberg TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/OuogLHx.png" tvg-id="Israel" group-title="Israel",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Israel",Bloomberg TV+ UHD (2160p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="Israel" group-title="Israel",Bloomberg TV+ UHD (2160p)
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="Israel",FOX News Now (720p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="Israel" group-title="Israel",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="Israel",NBC News Now (1080p)
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/JZt2qh5.png" tvg-id="Israel" group-title="Israel",NBC News Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Israel",Reuters
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="Israel" group-title="Israel",Reuters
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="Israel",CNN International Europe
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/05S3yYZ.png" tvg-id="Israel" group-title="Israel",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" group-title="Israel",Weather EU 2
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.br.de/mediathek/static/Brand_ogp.png" tvg-id="Israel" group-title="Israel",Weather EU 2
 https://brevent.akamaized.net/hls/live/2028222-b/event_05/master_1280p_3328.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" group-title="Israel",Rick and morty (720) HD
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://media.cdn.adultswim.com/uploads/20220904/2294143541-RAMMobileHero.png" tvg-id="Israel" group-title="Israel",Rick and morty (720) HD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" group-title="Israel",Rick and morty (360) SD
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.thcdn.com/design-assets/images/licensed-images/rickandmorty.png" tvg-id="Israel" group-title="Israel",Rick and morty (360) SD
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
 
 
@@ -75,138 +75,138 @@ https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_3.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" tvg-id="Israel" group-title="Israel",Sport5
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" group-title="Israel",WWE Live NetWork
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/soulnous/mybabe/main/WWELive16.png" tvg-id="Israel" group-title="Israel",WWE Live NetWork
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" group-title="Israel",Tennis Channel
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-54B862044B-seeklogo.com.png" tvg-id="Israel" group-title="Israel",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" group-title="Israel",Real Madrid TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/RMTDT.jpg" tvg-id="Real Madrid TV" tvg-id="Israel" group-title="Israel",Real Madrid TV
 https://rmtv-canela.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" group-title="Israel",Manchester United TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/31yznID.jpeg" tvg-id="Manchester United TV" tvg-id="Israel" group-title="Israel",Manchester United TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="Israel",True Premier Football 1
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" tvg-id="Israel" group-title="Israel",True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="Israel",True Premier Football 2
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" tvg-id="Israel" group-title="Israel",True Premier Football 2
 https://ctrl.laotv.la/live/TSport2/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/TyF29pf.png" tvg-id="Israel" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" tvg-id="Israel" group-title="Israel",keshet 12
 https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/2/hdntl=exp=1712582563~acl=%2f*~data=hdntl~hmac=6dc28c231386422b99408905df32e7e7c1534df0cf07bbd753492012c7c59f72/profileManifest.m3u8?_uid=a004f873-f654-4ab8-a86c-4aa2bbfc909d&rK=a1&_did=5aaade67-aa2b-4ebd-b804-2f884aebce5a
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" tvg-id="Israel" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" tvg-id="Israel" group-title="Israel",now 14
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" group-title="Israel",ערוץ 24
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/24.jpg" tvg-id="Israel" group-title="Israel",ערוץ 24
 https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/video_7201280_p_1.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" tvg-id="Israel" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" tvg-id="Israel" group-title="Israel",ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" tvg-id="Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" group-title="Israel",9 канал Ⓨ
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Channel9.il" tvg-id="Israel" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" tvg-id="Israel" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" group-title="Israel",שלנו TV
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://static.wixstatic.com/media/163650_1f32fca43a0b4e81baf49ab75479c60b~mv2.png/v1/fill/w_125,h_126,al_c,q_95,enc_auto/logo.png" tvg-id="Israel" group-title="Israel",שלנו TV
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" group-title="Israel",CNN
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN" tvg-id="Israel" group-title="Israel",CNN
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_4.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png"  group-title="Israel",FOX NEWS
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Fox_News_Media_Logo.svg/320px-Fox_News_Media_Logo.svg.png"  tvg-id="Israel" group-title="Israel",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" group-title="Israel",ABC NEWS
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/zTs3gIw.png" tvg-id="ABC NEWS" tvg-id="Israel" group-title="Israel",ABC NEWS
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png"  group-title="Israel",NBC NEWS
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png"  tvg-id="Israel" group-title="Israel",NBC NEWS
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_nbcnewsnow_001.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" group-title="Israel",BBC World News
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UlVSjYZ.png" tvg-id="BBC World News" tvg-id="Israel" group-title="Israel",BBC World News
 https://bkm.beetv.kz/btv/live/hls/000000014.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" group-title="Israel",CBN News
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/oeO07RV.png" tvg-id="CBN News" tvg-id="Israel" group-title="Israel",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" group-title="Israel",PANET 30 HALA هلا
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.ibb.co/MG43H4H/hala.png" tvg-id="Israel" group-title="Israel",PANET 30 HALA هلا
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UM5Gf4L.png" group-title="Israel",IsraelParsTV.il
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/UM5Gf4L.png" tvg-id="Israel" group-title="Israel",IsraelParsTV.il
 https://live.pars-israel.com/iptv/stream.m3u8
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" group-title="Israel",i24 English
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/il/i24news.png" tvg-id="Israel" group-title="Israel",i24 English
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" group-title="Israel",Sport5
+#EXTINF:-1 tvg-name="Ostora" tvg-logo="https://i.imgur.com/O7oqI3X.jpeg" tvg-id="Israel" group-title="Israel",Sport5
 https://rgelive.akamaized.net/hls/live/2043095/live3/playlistMain_1_.m3u8
 
-#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" group-title="Israel",kan 11
+#EXTINF:-1  tvg-id="11-kanal-il" tvg-logo="https://i.imgur.com/TyF29pf.png" tvg-id="Israel" group-title="Israel",kan 11
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
-#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" group-title="Israel",keshet 12
+#EXTINF:-1  tvg-id="12-kanal-il" tvg-logo="https://bahar-law.co.il/wp-content/uploads/2021/10/arutz12.png" tvg-id="Israel" group-title="Israel",keshet 12
 https://ideorpo.alwaysdata.net/kmb.php?m3u8
 
-#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" group-title="Israel", reshet 13
+#EXTINF:-1 tvg-id="13-kanal-il" tvg-logo="https://harmonylife.co.il/wp-content/uploads/2023/03/RESHET131.png" tvg-id="Israel" group-title="Israel", reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
 
-#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",now 14
+#EXTINF:-1 tvg-id="14-kanal-il"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" tvg-id="Israel" group-title="Israel",now 14
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 
-#EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" group-title="Israel",knesset
+#EXTINF:-1 tvg-id="knesset" tvg-name="knesset" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/43/Knessetch10.svg/1200px-Knessetch10.svg.png" tvg-id="Israel" group-title="Israel",knesset
 https://contactgbs.mmdlive.lldns.net/contactgbs/a40693c59c714fecbcba2cee6e5ab957/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="Israel",ערוץ הקניות
+#EXTINF:-1 tvg-id="shopping" tvg-name="21channel" tvg-logo="https://www.new4u.co.il/wp-content/uploads/2017/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%A8%D7%95%D7%A5-%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" tvg-id="Israel" group-title="Israel",ערוץ הקניות
 https://shoppingil-rewriter.vidnt.com/index.m3u8
 
-#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="HOT3 Israel" group-title="Israel",مكان 33
+#EXTINF:-1 tvg-name="مكان 33" tvg-logo="https://picon-13398.kxcdn.com/makan33il.jpg" tvg-id="Israel" group-title="Israel",مكان 33
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 
-#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" group-title="Israel",9 канал Ⓨ
+#EXTINF:-1 tvg-name="9 ערוץ Ⓨ" tvg-logo="https://picon-13398.kxcdn.com/9kanalil.jpg" tvg-id="Israel" group-title="Israel",9 канал Ⓨ
 https://contactgbs.mmdlive.lldns.net/contactgbs/dd4f5f04932345f1b47c4bfb45fbd682/manifest.m3u8
 
-#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" group-title="Israel",Ynet
+#EXTINF:-1 tvg-name="Ynet Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/293px-Ynet_website_logo.svg.png" tvg-id="Ynet" tvg-id="Israel" group-title="Israel",Ynet
 https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live_720/index.m3u8
 
-#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" group-title="Israel",Walla
+#EXTINF:-1 tvg-name="וואלה" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/d/d5/Walla_logo.svg/1199px-Walla_logo.svg.png?20121102120646" tvg-id="Walla" tvg-id="Israel" group-title="Israel",Walla
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01742-walla-wallanews-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" group-title="Israel",כאן חינוכית
+#EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",כאן חינוכית
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
-#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" group-title="Israel",הידברות
+#EXTINF:-1 tvg-name="הידברות" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",הידברות
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" group-title="Israel",קבלה לעם
+#EXTINF:-1 tvg-name="קבלה לעם" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-id="KanEducational.il" tvg-id="Israel" group-title="Israel",קבלה לעם
 https://edge2.il.kab.tv/live/tv66-heb-high/playlist.m3u8
